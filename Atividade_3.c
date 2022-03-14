@@ -12,7 +12,6 @@ int lista[500];
 int total;
 
 void* mediaFunc(){
-	printf("Media");
 
 	for (i = 0; i < total; i++){
 		media = media + lista[i];
