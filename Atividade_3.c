@@ -15,8 +15,8 @@ void* mediaFunc(){
 
 	for (i = 0; i < total; i++){
 		media = media + lista[i];
-	media = media/total;
 	}
+	media = media/total;
 }
 void* minFunc(){
 	for (i = 0; i < total; i++){
